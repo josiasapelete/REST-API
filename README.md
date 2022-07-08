@@ -17,6 +17,7 @@ AH OUI! c'est ce que donne le visuel c'est parce que c'est juste du back-end il 
 * Git   
 * Json
 * Postman (Pour le Test)*
+* Heroku (Pour l'hébergement)
 
 ## Ressource:
 * [Model](https://rapidapi.com/blog/nodejs-express-rest-api-example/)
@@ -32,13 +33,15 @@ On utilise la methode :
 
 * POST: pour inserer un joueur https://peaceful-chamber-91125.herokuapp.com/api/v1/stats et insérer les données sous format Json dans le body avec l'option Raw  
   * L'API affiche le status code 201 après réussite de l'opération.  
-`{  
+```
+{  
       "id": 1001,
       "name": "Jo",
       "wins": 10,
       "losses": 3,
       "points_scored": 7
-  }`  
+  }
+```  
   
 * PUT : Pour modifier les données d'un joueur    https://peaceful-chamber-91125.herokuapp.com/api/v1/stats/id  
   * Si la mise à jour est réussie, l'API affiche le status code 200.
