@@ -19,9 +19,9 @@ AH OUI! c'est ce que donne le visuel c'est parce que c'est juste du back-end il 
 * Postman (Pour le Test)*
 
 ## Ressource:
-* https://rapidapi.com/blog/nodejs-express-rest-api-example/  
-* https://medium.com/@9cv9official/what-are-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-17be31755d28  
-* https://www.geeksforgeeks.org/basics-of-api-testing-using-postman/  
+* [Model](https://rapidapi.com/blog/nodejs-express-rest-api-example/)
+* [Les methodes](https://medium.com/@9cv9official/what-are-get-post-put-patch-delete-a-walkthrough-with-javascripts-fetch-api-17be31755d28)
+* [Postman](https://www.geeksforgeeks.org/basics-of-api-testing-using-postman/)
 
 ## Fonctionnement:  
 <img width="960" alt="Capture d’écran 2022-07-08 085449" src="https://user-images.githubusercontent.com/102300897/177934555-c7408ac0-ba02-409b-aa66-53387ff87c7e.png">
